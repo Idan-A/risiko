@@ -46,7 +46,7 @@ def probabilitaAttacoDifesa(nfacce,ndaddi):
 
 if __name__ == "__main__":
 	N=10#numero facce daddo
-	daddi=2
+	dice=2
 
-	probabilitaAttacoDifesa(N,daddi)
+	probabilitaAttacoDifesa(N,dice)
 
